@@ -1,0 +1,6 @@
+Repozitoriu conține o colecție de fișiere cu diferite versiuni ale unui proiect.
+Commit - actualizarea unei înregistrări într-o bază de date.
+Push - este folosită pentru a publica noi comituri pe un server.
+În Git, branch este un pointer către un commit specific.
+Controlul versiunilor joacă un rol important în urmărirea modificărilor și a fiecărui membru al grupului care 
+lucrează la cea mai recentă versiune a codului.
