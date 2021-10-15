@@ -1,0 +1,5 @@
+Avantajele utilizării sistemului de control a versiunilor sunt:
+-reducerea dublicării și a erorilor;
+-eficiență;
+-identitate;
+-posibilitatea de colaborare între echipe care lucrează la același proiect.
